@@ -1,6 +1,6 @@
 # chatter
 
-FIXME
+This is bomb diggity #1 Chat spot for noobies
 
 ## Prerequisites
 
@@ -16,4 +16,4 @@ To start a web server for the application, run:
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2015 ERYN45
